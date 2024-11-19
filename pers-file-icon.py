@@ -12,7 +12,7 @@ init(autoreset=True)
 # Hardcoded ignore list
 IGNORE_FOLDERS = ["*/Temp/*", "*.git*", "*/Theme/*", "*_*"]  # Wildcard patterns for folders to ignore
 IGNORE_FILES = []  # Wildcard patterns for files to ignore
-FOLDER_DEPTH = 3  # Maximum depth for processing folders
+FOLDER_DEPTH = 5  # Maximum depth for processing folders
 
 def print_colored(text, color_code):
     """Utility function to print colored text"""
