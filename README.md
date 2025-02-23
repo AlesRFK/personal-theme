@@ -23,7 +23,7 @@ pip install colorama
 
 ### Usage
 ```bash
-python custom_icon_folders.py
+python pers-file-icon.py
 ```
 
 ### License
